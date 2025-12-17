@@ -39,15 +39,11 @@
   - 과거에 사람들이 상상한 미래
   - 그들이 만들어가는 세상
   - 우리가 상상한 미래
+ <img width="2245" height="3179" alt="image" src="https://github.com/user-attachments/assets/85a66f69-ac82-41b7-be91-1673519b59d2" />
+
   - 우리가 그리는 미래 그리고 나
 
 - 각오와 소감 나누기 ✔️  
-
-
-<!-- 활동 사진 추가 예시 -->
-<img src="https://pixnio.com/free-images/2017/08/14/2017-08-14-13-09-09-960x651.jpg?text=활동사진1" width="330" height="190"/>
-<img src="https://pixnio.com/free-images/2017/08/14/2017-08-14-20-51-02-960x640.jpg?text=활동사진2" width="330" height="190"/>
-<img src="https://pixnio.com/free-images/2017/08/15/2017-08-15-10-05-39-960x640.jpg?text=활동사진3" width="330" height="190"/>
 
 ***
 
@@ -81,33 +77,3 @@
 
 🔗학번 이름  
 > "소감 내용을 여기에 작성합니다."
-
-
-## Markdown을 사용하여 내용꾸미기를 익히세요.
-
-Markdown은 작문을 스타일링하기위한 가볍고 사용하기 쉬운 구문입니다. 여기에는 다음을위한 규칙이 포함됩니다.
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-자세한 내용은 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Support or Contact
-
-readme 파일 생성에 추가적인 도움이 필요하면 [도움말](https://help.github.com/articles/about-readmes/) 이나 [contact support](https://github.com/contact) 을 이용하세요.
-
